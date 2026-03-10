@@ -7,5 +7,6 @@ Desenvolvido como prática para conceitos básicos com Kotlin, POO, e componente
 
 ## Tela
 
-
+![Modo escuro](<WhatsApp Image 2026-03-10 at 17.11.00 (1).jpeg>)
+![Modo claro](<WhatsApp Image 2026-03-10 at 17.11.00.jpeg>)
 
